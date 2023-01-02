@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Account_Trigger_Matching_Account_Exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Trigger Matching Account Exists</shortDescription>
+        <value>Matching Account Exists, please use the existing Account instead of creating a new Account</value>
+    </labels>
+    <labels>
+        <fullName>Account_Trigger_Matching_Lead_Exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Account Trigger Matching Lead Exists</shortDescription>
+        <value>Matching Lead Exists, please convert the lead instead of creating a new Account</value>
+    </labels>
+    <labels>
+        <fullName>Generic_Opportunity_Processing_API_Error</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Generic Opportunity Processing API Error</shortDescription>
+        <value>Something went wrong while parsing the request, please contact admin</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Json_Field_Mapping_Configuration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Json Field Mapping Configuration</shortDescription>
+        <value>Field Mappings not configured for the Object</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Json_Format</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Json Format</shortDescription>
+        <value>Expected List of requests as JSON array of Objects</value>
+    </labels>
+    <labels>
+        <fullName>Invalid_Json_Selected_Products_Absent</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invalid Json Selected Products Absent</shortDescription>
+        <value>Selected products not specified</value>
+    </labels>
+    <labels>
+        <fullName>Lead_Trigger_Matching_Account_Exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead Trigger Matching Account Exists</shortDescription>
+        <value>Matching Account Exists, please use the same account instead of creating a new lead</value>
+    </labels>
+    <labels>
+        <fullName>Lead_Trigger_Matching_Lead_Exists</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Lead Trigger Matching Lead Exists</shortDescription>
+        <value>Matching Lead Exists, please use the same Lead instead of creating a new lead</value>
+    </labels>
+</CustomLabels>
